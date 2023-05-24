@@ -11,8 +11,8 @@ Dear Hackathon attendees, please introduce yourself via a `GITHUB_USERNAME.json`
 ```javascript
 // _data/{{ site.current_term }}/afeld.json
 {
- "emoji": "dancer",
- "introduction": "Developer at 18F by day, dancer by night."
+ "emoji": "person_biking",
+ "introduction": "I like bikes."
 }
 ```
 
